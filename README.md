@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Monitoreo
 
 En este laboratorio exploraremos monitoreo con herramientas disponibles
