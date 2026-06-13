@@ -36,9 +36,6 @@ docker compose down -v   # borra también dashboards/alarmas creados
 > Nota de versiones: el tag `prom/prometheus:latest` apunta aún a la rama 2.x (LTS),
 > por eso fijamos `v3.8.1`. Promtail EOL (2026-03-02); el recolector de logs
 > es Grafana Alloy.
-=======
-# iac-observabilidad
->>>>>>> 279f635c10a6c0cf349e472669f3cf2bd7f18563
 
 # Respuestas - Laboratorio de Observabilidad
 
